@@ -1,0 +1,8 @@
+.venv/
+credentials.json
+token.json
+processed_ids.txt
+*.csv
+__pycache__/
+.claude/
+.env
